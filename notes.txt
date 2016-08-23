@@ -1,0 +1,13 @@
+git remote -v --> what is my origin? 
+
+git diff <filename> --> check what changed example: 
+
+
+The Directories 
+
+App
+.gitignore
+License 
+Readme.md
+package.json
+server.js 
