@@ -16,3 +16,6 @@ npms.io -> packages searching by npm
 
 npm install express --save
 
+git log -> local commit history 
+
+
