@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/gkipkorir/node-together-boston/issues"
   },
-  "homepage": "https://github.com/gkipkorir/node-together-boston#readme"
+  "homepage": "https://github.com/gkipkorir/node-together-boston#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
 }

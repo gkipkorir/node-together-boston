@@ -9,5 +9,10 @@ App
 .gitignore
 License 
 Readme.md
-package.json
+package.json ---> Metadata about our app- name, version, 
 server.js 
+
+npms.io -> packages searching by npm 
+
+npm install express --save
+
