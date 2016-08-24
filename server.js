@@ -1,6 +1,6 @@
 var express = require('express');
-var app = express();
 var rules = require('./app/index.js');
+var app = express();
 app.use(rules);
 
 
